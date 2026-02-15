@@ -2,7 +2,7 @@
 0,SansAnimation,,,,,,,,
 0,SetMaxHp,92,,,,,,,
 0,DamagePlayer,-999,0,,,,,,
-0,JMPABS,Fight,Text,,,,,,
+0,JMPABS,Text,,,,,,,
 0,:Text,,,,,,,,
 0,CombatZoneResize,133,251,508,391,,,,
 0,HeartTeleport,320,304,,,,,,
